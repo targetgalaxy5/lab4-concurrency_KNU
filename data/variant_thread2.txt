@@ -1,0 +1,2000 @@
+write 1 510
+write 0 517
+write 1 450
+read 0
+write 0 785
+write 0 681
+string
+string
+read 1
+read 0
+string
+read 0
+read 0
+string
+string
+string
+read 0
+string
+read 0
+string
+string
+string
+string
+read 1
+read 0
+string
+string
+read 1
+string
+string
+string
+read 1
+string
+write 0 505
+write 0 472
+write 0 370
+string
+string
+string
+read 1
+string
+read 1
+read 1
+read 0
+string
+read 0
+string
+read 0
+string
+write 0 321
+write 0 116
+string
+read 0
+read 1
+read 1
+read 1
+read 0
+string
+read 1
+string
+write 0 807
+read 0
+read 1
+string
+read 1
+read 1
+read 1
+read 1
+read 1
+read 0
+string
+string
+read 0
+read 0
+read 0
+string
+read 1
+read 1
+string
+string
+string
+string
+string
+read 0
+read 0
+string
+write 1 551
+read 0
+read 0
+string
+read 1
+read 1
+string
+read 0
+read 1
+read 0
+read 0
+string
+read 0
+string
+string
+string
+read 0
+string
+string
+read 1
+read 1
+string
+read 0
+read 1
+write 1 995
+string
+string
+read 0
+string
+read 0
+string
+read 1
+string
+read 1
+write 0 20
+string
+string
+string
+read 0
+string
+string
+string
+string
+read 0
+string
+read 1
+read 0
+string
+string
+string
+read 1
+read 0
+string
+string
+read 0
+string
+string
+string
+write 1 898
+read 1
+string
+read 0
+read 1
+read 0
+read 0
+string
+read 0
+read 0
+read 1
+string
+string
+string
+string
+read 0
+string
+read 0
+string
+write 1 75
+string
+string
+string
+string
+read 1
+string
+write 1 272
+read 0
+read 0
+string
+string
+write 1 385
+string
+string
+read 0
+string
+string
+read 0
+read 1
+read 1
+string
+read 1
+read 0
+write 1 164
+read 0
+read 0
+string
+read 0
+string
+string
+string
+string
+read 0
+read 0
+read 0
+string
+read 0
+string
+string
+string
+read 0
+string
+string
+read 1
+write 0 545
+read 0
+write 0 953
+read 1
+string
+string
+string
+read 1
+string
+read 0
+read 0
+string
+read 0
+read 1
+read 1
+string
+string
+read 1
+string
+string
+string
+string
+string
+string
+read 1
+read 0
+string
+read 0
+read 1
+read 0
+read 0
+read 1
+read 1
+write 0 721
+string
+string
+write 1 535
+string
+read 0
+read 0
+write 1 85
+string
+string
+string
+string
+write 0 304
+write 0 149
+string
+write 1 864
+string
+string
+string
+string
+string
+string
+read 1
+string
+string
+string
+read 1
+read 1
+string
+string
+read 1
+read 0
+read 1
+string
+write 1 565
+read 1
+read 0
+read 1
+read 1
+write 1 4
+string
+read 0
+string
+write 0 287
+read 0
+read 1
+string
+read 0
+read 0
+string
+read 1
+read 0
+read 0
+string
+write 1 796
+read 1
+string
+read 1
+write 1 2
+read 0
+string
+read 0
+string
+string
+string
+string
+read 0
+string
+string
+read 1
+read 0
+read 1
+read 1
+read 0
+string
+string
+write 1 927
+string
+read 1
+read 1
+string
+read 1
+read 1
+write 1 534
+string
+read 0
+string
+read 0
+read 1
+string
+read 0
+write 1 657
+string
+read 1
+read 1
+read 1
+string
+read 0
+read 1
+string
+read 0
+read 0
+read 1
+write 0 324
+read 0
+read 0
+read 0
+string
+string
+read 0
+read 0
+read 1
+read 0
+string
+string
+read 1
+read 0
+read 1
+string
+string
+string
+string
+string
+string
+string
+read 0
+read 0
+write 0 385
+string
+string
+read 1
+string
+string
+string
+string
+read 0
+read 0
+string
+string
+string
+write 0 636
+string
+string
+string
+read 0
+read 0
+string
+string
+string
+string
+string
+string
+string
+write 1 151
+string
+string
+string
+read 1
+read 0
+read 1
+read 0
+string
+read 0
+write 1 116
+read 1
+read 0
+read 0
+string
+string
+string
+string
+string
+string
+string
+string
+string
+string
+string
+read 1
+string
+string
+string
+write 1 238
+string
+string
+read 0
+write 0 765
+read 0
+string
+read 0
+string
+string
+write 1 796
+read 0
+string
+string
+read 1
+string
+write 0 451
+string
+string
+read 1
+string
+read 0
+string
+read 1
+string
+read 0
+string
+string
+read 0
+read 1
+read 0
+string
+string
+string
+read 1
+string
+string
+string
+write 0 38
+string
+string
+read 0
+write 1 175
+string
+string
+read 1
+string
+string
+read 0
+string
+read 0
+string
+write 0 602
+read 0
+read 1
+string
+read 0
+string
+string
+string
+string
+string
+string
+string
+string
+string
+string
+read 1
+string
+read 0
+read 0
+string
+string
+string
+string
+string
+read 1
+read 1
+read 1
+read 1
+write 0 260
+string
+read 1
+read 0
+write 1 617
+write 1 787
+read 0
+read 1
+read 1
+read 0
+read 1
+read 0
+read 1
+write 1 655
+string
+string
+string
+read 1
+read 0
+string
+write 1 178
+read 1
+string
+read 1
+read 0
+string
+string
+string
+read 1
+string
+read 1
+string
+string
+string
+read 0
+read 0
+string
+read 0
+read 0
+string
+string
+read 1
+write 0 508
+string
+read 1
+read 0
+string
+write 0 358
+string
+read 0
+string
+read 0
+string
+write 0 623
+read 1
+string
+read 0
+read 1
+read 1
+string
+string
+read 1
+read 0
+string
+read 1
+write 0 615
+string
+read 1
+string
+string
+read 1
+string
+string
+string
+read 0
+string
+string
+string
+read 0
+string
+read 0
+read 1
+read 1
+read 0
+string
+string
+string
+read 1
+string
+read 1
+read 1
+string
+write 0 824
+read 0
+string
+string
+read 1
+read 0
+read 0
+read 0
+string
+read 1
+read 1
+string
+string
+string
+string
+string
+string
+string
+read 1
+read 1
+string
+read 0
+write 1 832
+string
+string
+string
+string
+string
+string
+string
+read 1
+read 0
+read 1
+string
+string
+read 1
+read 0
+read 1
+read 1
+string
+string
+string
+string
+write 1 479
+read 1
+string
+string
+read 0
+string
+string
+read 0
+read 1
+string
+read 1
+read 0
+read 1
+read 0
+read 1
+string
+read 1
+string
+string
+read 0
+string
+write 0 260
+read 0
+read 1
+string
+string
+read 1
+read 0
+read 1
+read 0
+string
+read 1
+read 0
+string
+read 1
+read 0
+read 0
+string
+string
+read 1
+string
+read 1
+string
+string
+string
+string
+string
+read 1
+read 0
+string
+read 1
+read 0
+string
+string
+read 1
+string
+string
+string
+read 0
+string
+read 1
+string
+read 1
+string
+write 0 224
+read 0
+string
+string
+read 1
+read 1
+read 0
+string
+read 0
+string
+read 1
+string
+read 0
+string
+string
+string
+write 0 654
+read 1
+write 1 556
+string
+read 0
+string
+string
+string
+read 0
+string
+string
+string
+read 1
+string
+read 1
+string
+string
+string
+read 1
+string
+read 0
+string
+string
+string
+read 0
+read 0
+read 0
+write 1 102
+string
+string
+read 0
+read 0
+read 1
+string
+string
+string
+string
+read 1
+read 0
+write 0 351
+read 0
+read 0
+string
+read 1
+string
+read 0
+read 1
+read 0
+string
+string
+read 1
+read 1
+string
+string
+string
+string
+string
+read 1
+read 0
+string
+string
+read 1
+string
+read 1
+read 0
+string
+string
+string
+read 1
+string
+string
+read 1
+string
+string
+string
+read 0
+string
+string
+string
+string
+read 1
+read 1
+read 0
+string
+read 1
+write 0 567
+write 0 540
+string
+string
+read 1
+string
+read 0
+string
+read 1
+string
+string
+read 0
+read 0
+read 1
+string
+string
+read 0
+read 0
+string
+string
+read 0
+string
+write 0 435
+read 1
+string
+read 0
+write 0 711
+string
+string
+string
+string
+read 0
+string
+read 0
+string
+read 0
+string
+read 0
+string
+read 1
+read 1
+write 1 929
+read 1
+write 1 957
+string
+string
+string
+string
+string
+read 0
+string
+write 0 70
+read 1
+string
+read 1
+write 0 305
+write 0 288
+read 0
+string
+string
+string
+string
+read 0
+string
+string
+read 0
+read 0
+read 0
+read 0
+read 0
+read 0
+string
+string
+read 1
+read 1
+write 0 362
+read 1
+write 0 251
+string
+string
+string
+string
+read 0
+read 0
+string
+string
+string
+string
+string
+read 1
+string
+string
+string
+write 1 546
+read 1
+read 1
+read 0
+string
+string
+string
+string
+string
+string
+write 0 244
+string
+string
+read 0
+string
+read 1
+string
+string
+write 0 149
+string
+read 0
+string
+string
+string
+string
+read 1
+string
+string
+read 0
+read 1
+read 1
+read 1
+read 1
+string
+read 0
+write 1 633
+string
+write 1 930
+read 0
+string
+read 0
+read 0
+read 1
+read 1
+write 0 193
+string
+string
+string
+write 0 483
+string
+string
+string
+read 0
+read 0
+read 0
+string
+read 0
+read 1
+string
+string
+string
+string
+string
+read 1
+read 0
+string
+read 1
+read 0
+string
+read 1
+string
+string
+write 0 951
+read 0
+read 0
+string
+read 1
+read 1
+string
+read 1
+read 1
+string
+read 0
+read 0
+string
+string
+read 0
+write 1 839
+string
+read 1
+string
+write 1 106
+read 1
+read 1
+write 0 981
+string
+read 0
+read 1
+string
+string
+read 0
+read 0
+read 0
+read 0
+read 1
+string
+read 0
+string
+string
+string
+string
+write 1 395
+string
+string
+read 0
+write 1 226
+read 0
+string
+read 1
+string
+string
+string
+read 1
+string
+read 0
+string
+string
+read 1
+read 1
+string
+string
+write 1 829
+string
+read 1
+string
+read 0
+string
+read 1
+string
+string
+write 0 332
+read 0
+string
+string
+string
+write 1 428
+string
+read 1
+write 0 204
+string
+string
+read 1
+read 0
+string
+string
+read 1
+string
+string
+string
+string
+read 0
+string
+string
+read 1
+string
+read 0
+read 1
+string
+read 0
+string
+read 1
+string
+string
+string
+string
+string
+string
+string
+string
+string
+read 1
+read 0
+write 0 915
+read 0
+string
+read 0
+string
+string
+string
+read 0
+read 1
+string
+read 0
+write 1 262
+read 1
+read 0
+read 0
+read 1
+write 1 415
+string
+string
+read 0
+string
+string
+read 0
+read 0
+string
+string
+string
+string
+string
+string
+string
+read 1
+string
+read 1
+read 0
+read 1
+read 0
+read 0
+read 0
+read 0
+read 1
+string
+read 1
+write 1 482
+string
+string
+write 1 483
+string
+string
+read 1
+read 1
+read 0
+string
+string
+string
+read 0
+string
+string
+string
+string
+string
+read 1
+read 0
+string
+string
+string
+string
+write 1 45
+string
+string
+read 0
+string
+string
+string
+string
+read 0
+read 0
+string
+string
+string
+string
+write 0 508
+string
+read 0
+string
+string
+string
+string
+string
+string
+read 0
+read 1
+read 1
+string
+read 1
+string
+read 0
+string
+write 1 193
+read 0
+read 1
+read 0
+read 0
+read 1
+read 0
+string
+string
+string
+string
+string
+write 1 258
+string
+read 0
+read 1
+write 1 768
+string
+write 0 377
+string
+string
+write 0 396
+read 0
+string
+read 1
+read 1
+string
+string
+read 1
+string
+string
+string
+string
+string
+string
+read 0
+read 1
+string
+read 1
+string
+read 0
+string
+string
+read 1
+read 1
+string
+read 1
+string
+string
+string
+string
+write 1 70
+read 1
+string
+string
+read 1
+read 0
+string
+read 0
+string
+string
+read 1
+write 0 420
+read 1
+read 1
+string
+read 0
+string
+string
+string
+string
+read 1
+string
+string
+read 0
+write 0 1000
+read 1
+read 1
+read 0
+read 0
+string
+string
+write 0 948
+string
+string
+string
+read 1
+string
+string
+read 1
+read 1
+read 0
+string
+string
+read 1
+read 0
+read 1
+read 0
+write 1 182
+read 0
+read 1
+read 1
+write 0 738
+read 0
+read 0
+string
+string
+string
+string
+string
+string
+string
+read 1
+string
+string
+write 0 467
+string
+write 1 593
+string
+string
+read 1
+read 1
+string
+string
+string
+read 1
+read 0
+read 1
+read 0
+read 1
+string
+string
+write 1 261
+read 1
+string
+read 0
+string
+string
+string
+read 1
+string
+string
+write 1 780
+read 1
+write 1 443
+read 1
+string
+string
+string
+string
+string
+string
+read 0
+string
+string
+string
+string
+string
+string
+read 0
+string
+read 0
+string
+string
+read 1
+read 1
+read 1
+read 1
+write 0 854
+string
+string
+read 1
+read 1
+read 1
+string
+string
+read 1
+read 0
+read 0
+read 0
+string
+read 1
+read 0
+string
+read 1
+read 1
+string
+string
+string
+read 1
+read 0
+read 0
+string
+write 1 490
+string
+string
+string
+write 1 905
+write 0 99
+string
+string
+write 1 763
+read 0
+read 1
+string
+read 1
+read 0
+string
+write 0 139
+read 0
+read 1
+read 0
+string
+string
+read 1
+read 0
+string
+read 0
+string
+read 0
+string
+string
+read 1
+write 1 138
+read 1
+string
+read 1
+read 0
+string
+read 1
+write 0 457
+string
+string
+string
+string
+string
+string
+string
+string
+string
+read 1
+string
+write 1 673
+string
+string
+read 0
+string
+string
+read 1
+string
+string
+write 1 459
+string
+read 0
+read 0
+string
+string
+read 0
+read 0
+write 0 98
+read 0
+string
+write 0 419
+string
+string
+read 1
+string
+write 1 910
+read 0
+string
+string
+string
+string
+read 0
+read 1
+read 1
+read 0
+string
+string
+string
+read 1
+read 0
+string
+read 0
+string
+read 0
+string
+read 0
+string
+string
+string
+read 1
+write 0 153
+read 0
+write 1 372
+string
+read 0
+read 1
+string
+read 0
+read 0
+string
+string
+string
+string
+write 0 751
+read 0
+read 0
+string
+read 0
+string
+read 1
+string
+read 0
+read 1
+string
+write 0 689
+string
+read 0
+string
+write 0 797
+string
+read 1
+read 1
+read 0
+string
+string
+string
+read 1
+string
+read 1
+read 1
+string
+read 0
+string
+string
+write 0 135
+read 0
+string
+string
+read 0
+read 0
+string
+string
+string
+read 1
+string
+read 1
+read 0
+string
+read 0
+read 0
+read 0
+write 1 366
+string
+string
+string
+string
+read 0
+string
+string
+read 1
+read 0
+read 0
+string
+read 1
+string
+read 0
+write 1 500
+read 0
+string
+read 1
+string
+write 0 11
+read 1
+read 1
+string
+string
+string
+read 1
+read 1
+string
+read 0
+string
+read 0
+read 1
+read 0
+read 0
+string
+string
+read 1
+read 0
+string
+write 1 634
+write 1 61
+write 0 716
+string
+string
+string
+write 0 184
+string
+string
+string
+string
+read 0
+string
+string
+string
+string
+string
+string
+string
+string
+string
+read 1
+read 1
+string
+string
+read 1
+string
+string
+read 1
+string
+string
+string
+read 0
+string
+read 1
+read 0
+read 1
+read 1
+string
+read 0
+string
+string
+string
+string
+string
+string
+string
+read 0
+read 0
+string
+read 0
+read 1
+write 1 579
+string
+read 1
+string
+string
+read 1
+string
+read 1
+string
+string
+read 0
+write 1 143
+string
+string
+string
+string
+read 1
+string
+string
+read 0
+read 0
+string
+read 1
+read 1
+string
+string
+string
+string
+write 1 567
+string
+write 1 136
+read 1
+read 1
+string
+read 1
+string
+read 0
+string
+string
+write 1 599
+string
+string
+write 0 337
+string
+string
+string
+string
+write 0 122
+write 1 636
+string
+string
+read 0
+string
+read 1
+string
+string
+string
+string
+string
+string
+write 0 521
+read 1
+write 0 874
+string
+read 1
+read 1
+read 1
+write 0 697
+read 0
+read 1
+write 1 457
+read 1
+read 0
+read 1
+read 1
+string
+read 0
+read 1
+string
+write 0 602
+read 0
+string
+read 0
+read 1
+string
+string
+write 0 876
+string
+string
+read 0
+string
+string
+read 0
+string
+string
+read 1
+string
+string
+string
+read 1
+string
+read 1
+read 1
+read 0
+string
+string
+string
+read 1
+string
+string
+read 1
+string
+string
+string
+write 0 574
+read 1
+write 0 86
+string
+read 0
+read 1
+write 0 322
+write 0 5
+read 1
+string
+string
+string
+string
+string
+string
+string
+string
+string
+string
+string
+string
+string
+read 0
+string
+read 1
+read 1
+write 0 229
+string
+read 0
+string
+read 0
+read 0
+read 1
+string
+string
+string
+string
+read 0
+string
+read 1
+string
+read 1
+string
+string
+read 0
+write 1 680
+string
+string
+string
+string
+read 0
+read 1
+write 0 967
+read 1
+read 1
+string
+string
+string
+read 0
+read 0
+read 0
+read 1
+read 1
+read 1
+read 1
+write 0 539
+string
+string
+write 1 56
+string
+read 1
+read 1
+string
+read 1
+string
+string
+read 1
+read 1
+read 1
+read 1
+write 1 975
+string
+string
+write 1 665
+string
+string
+read 1
+write 0 361
+string
+write 1 101
+string
+read 1
+read 0
+read 0
+read 0
+string
+string
+string
+write 1 716
+read 1
+read 1
+write 1 706
+string
+string
+string
+string
+string
+string
+string
+read 0
+read 0
+string
+string
+read 1
+write 1 971
+read 0
+string
+read 0
+read 0
+read 1
+read 0
+string
+read 1
+read 1
+read 0
+read 1
+string
+read 1
+read 1
+string
+read 1
+write 0 33
+string
+read 0
+read 0
+string
+read 0
+string
+read 1
+string
+write 0 250
+read 0
+read 0
+read 1
+read 0
+string
+read 0
+string
+read 0
+read 0
+string
+string
+read 0
+read 1
+string
+string
+string
+string
+read 1
+write 0 957
+read 1
+string
+read 0
+read 1
+write 1 447
+read 0
+write 0 626
+string
+write 1 498
+read 1
+string
+string
+string
+string
+read 1
+string
+string
+read 1
+read 1
+write 0 527
+string
+read 0
+string
+read 0
+read 1
+read 0
+read 0
+string
+read 0
+string
+read 0
+read 0
+string
+write 0 550
+string
+string
+read 1
+string
+read 1
+string
+string
+string
+read 1
+read 1
+read 0
+string
+read 1
+string
+string
+read 0
+string
+read 0
+string
+string
+read 0
+string
+string
+read 0
+read 1
+string
+string
+read 0
+read 0
+read 0
+read 0
+read 0
+read 0
+read 1
+read 0
+write 1 415
+string
+string
+string
+string
+read 1
+read 1
+string
+string
+string
+read 0
+string
+string
+string
+string
+read 1
+string
+string
+read 0
+string
+read 1
+string
+string
+string
+read 0
+read 0
+string
+string
+string
+string
+read 0
+string
+read 0
+write 0 291
+string
+read 1

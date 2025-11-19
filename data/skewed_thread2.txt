@@ -1,0 +1,2000 @@
+write 0 504
+string
+write 0 180
+write 0 924
+write 0 364
+read 1
+string
+string
+read 1
+string
+write 0 270
+write 0 650
+string
+write 0 715
+string
+write 0 405
+string
+write 0 825
+write 0 946
+write 0 367
+write 0 648
+write 0 747
+string
+write 0 818
+write 0 191
+read 1
+write 0 706
+string
+write 0 532
+string
+string
+write 0 465
+string
+write 0 890
+write 0 471
+write 0 430
+write 0 943
+write 0 706
+string
+write 0 587
+write 0 546
+write 0 993
+write 0 985
+write 0 186
+string
+write 0 434
+write 0 838
+read 0
+write 0 764
+write 1 191
+write 0 540
+write 0 363
+write 0 252
+read 1
+string
+read 1
+write 0 521
+read 1
+write 0 962
+write 0 95
+write 0 153
+write 0 373
+string
+write 0 339
+write 0 833
+write 1 248
+write 0 200
+write 0 476
+write 0 663
+write 0 955
+read 1
+write 0 698
+write 0 775
+write 0 467
+string
+string
+write 0 557
+string
+write 0 42
+write 0 531
+write 0 752
+string
+write 0 497
+string
+write 0 900
+read 0
+write 0 658
+write 0 438
+read 0
+string
+write 0 100
+string
+write 0 68
+write 0 711
+write 0 634
+write 0 750
+write 0 156
+string
+string
+write 1 780
+string
+string
+read 1
+read 0
+write 0 389
+string
+write 0 824
+string
+string
+write 0 812
+write 0 39
+string
+write 0 648
+string
+write 1 236
+string
+read 0
+read 0
+write 0 243
+write 0 234
+write 0 665
+write 0 986
+write 0 100
+string
+write 0 547
+string
+write 0 857
+write 0 901
+string
+read 1
+string
+write 0 591
+write 0 190
+write 1 118
+write 1 396
+read 1
+write 0 849
+write 0 350
+write 0 20
+string
+write 0 406
+write 0 857
+write 0 55
+write 0 662
+write 0 29
+string
+write 0 889
+write 1 60
+write 0 888
+write 0 434
+write 0 960
+write 1 817
+string
+write 0 480
+string
+write 0 273
+write 0 870
+write 0 231
+write 0 658
+read 1
+string
+write 0 141
+string
+write 0 564
+string
+string
+write 0 559
+write 0 371
+write 0 107
+string
+string
+write 0 234
+string
+write 0 377
+string
+read 0
+string
+string
+write 0 586
+write 0 313
+write 0 669
+write 0 662
+write 0 617
+read 1
+write 0 497
+read 0
+string
+string
+write 0 714
+write 0 470
+string
+write 0 198
+write 0 777
+write 0 460
+write 0 125
+write 0 564
+write 0 370
+write 0 653
+string
+write 0 400
+string
+write 0 445
+read 1
+string
+write 0 472
+string
+write 1 916
+write 0 571
+string
+write 0 191
+write 0 183
+string
+write 0 584
+string
+write 0 218
+write 0 156
+write 0 28
+write 1 267
+write 0 445
+write 0 576
+write 0 96
+write 0 402
+write 0 267
+write 1 228
+write 0 693
+write 0 59
+write 0 603
+write 0 913
+write 0 621
+write 0 336
+write 0 887
+string
+write 0 80
+string
+write 0 340
+read 1
+write 0 68
+write 0 381
+write 0 353
+write 0 597
+string
+string
+string
+string
+write 0 958
+write 0 22
+string
+string
+read 0
+string
+write 0 424
+write 0 377
+write 0 262
+write 0 982
+write 0 772
+write 0 221
+read 0
+string
+string
+string
+write 1 22
+write 0 465
+string
+string
+string
+write 0 853
+string
+write 0 159
+write 0 16
+write 0 553
+write 0 74
+string
+write 0 645
+write 0 982
+write 0 490
+write 0 565
+string
+write 0 115
+string
+string
+read 1
+write 0 467
+write 0 628
+write 0 95
+read 1
+write 0 666
+write 1 732
+string
+write 0 278
+string
+string
+write 0 345
+write 0 146
+write 0 152
+write 0 676
+write 0 203
+string
+string
+string
+write 0 290
+write 0 737
+read 1
+write 0 144
+write 1 621
+write 0 982
+string
+write 0 784
+write 0 561
+write 0 42
+string
+write 0 639
+write 0 827
+read 0
+write 0 652
+string
+string
+write 1 73
+string
+string
+write 1 261
+write 0 822
+write 0 753
+write 0 871
+write 0 603
+write 0 447
+read 1
+write 0 140
+write 0 922
+string
+write 0 271
+read 1
+string
+write 0 980
+string
+string
+write 1 709
+read 1
+read 1
+string
+write 0 154
+string
+write 0 840
+write 0 178
+write 1 876
+write 0 999
+write 0 421
+write 0 914
+write 0 581
+string
+string
+write 0 231
+write 1 726
+string
+write 0 477
+string
+string
+write 0 915
+string
+string
+write 0 193
+write 0 856
+write 0 514
+write 0 926
+string
+write 0 201
+write 1 476
+write 0 228
+string
+read 0
+read 1
+write 0 193
+write 0 842
+string
+write 0 144
+write 0 638
+write 0 910
+write 0 841
+write 0 484
+write 0 286
+read 1
+read 1
+write 0 358
+string
+write 0 106
+read 1
+write 0 467
+write 0 577
+string
+write 1 467
+write 0 93
+string
+write 0 920
+write 0 840
+write 0 21
+read 1
+write 0 911
+string
+string
+string
+string
+write 0 846
+write 0 941
+write 0 896
+write 0 674
+string
+write 0 993
+write 0 776
+read 1
+write 0 458
+write 0 518
+write 0 683
+read 0
+write 0 235
+write 0 626
+write 0 437
+write 0 457
+write 0 857
+write 0 345
+read 1
+write 0 377
+write 0 990
+write 0 638
+read 0
+write 0 728
+write 0 465
+string
+string
+write 0 819
+write 0 358
+write 1 99
+write 0 250
+read 1
+write 0 57
+write 0 899
+write 0 523
+write 0 885
+string
+write 0 868
+read 1
+write 0 513
+string
+read 0
+read 0
+write 0 13
+write 1 296
+write 0 519
+write 0 293
+write 0 69
+read 1
+write 0 595
+write 0 692
+string
+write 0 285
+write 0 482
+write 0 435
+write 0 245
+write 0 103
+write 0 775
+write 0 539
+read 1
+write 0 938
+write 0 29
+write 0 219
+write 0 275
+write 0 783
+write 0 308
+write 0 947
+write 0 708
+string
+read 1
+write 0 513
+write 0 727
+write 1 953
+write 0 599
+write 0 670
+write 0 667
+write 1 816
+write 0 598
+string
+write 1 312
+write 0 433
+string
+string
+write 0 130
+write 0 206
+write 0 932
+string
+write 1 70
+string
+write 0 936
+write 0 209
+read 0
+write 0 993
+write 0 51
+write 0 217
+write 0 345
+write 0 135
+string
+string
+string
+write 0 997
+write 0 934
+write 0 860
+write 0 122
+string
+write 0 585
+write 0 919
+string
+string
+write 0 540
+string
+write 0 77
+write 0 654
+write 0 896
+string
+write 0 207
+write 0 210
+write 0 508
+write 0 880
+string
+write 0 528
+read 1
+write 0 656
+string
+write 0 559
+read 0
+string
+string
+write 0 667
+write 0 599
+write 0 200
+read 0
+write 0 648
+string
+write 0 532
+string
+read 0
+write 0 65
+write 0 287
+write 0 1
+write 0 904
+string
+write 0 532
+write 0 872
+write 0 817
+read 0
+write 0 927
+write 0 653
+string
+write 0 231
+write 0 730
+write 0 598
+write 0 37
+write 0 822
+read 0
+write 0 537
+write 0 88
+write 0 338
+write 1 516
+write 0 133
+write 0 98
+string
+write 0 144
+write 0 819
+write 0 142
+string
+string
+write 0 644
+write 0 141
+write 0 827
+string
+write 0 975
+write 0 774
+write 0 27
+write 1 572
+write 0 986
+write 0 75
+write 0 387
+write 0 555
+write 0 22
+string
+write 1 430
+write 0 926
+write 0 7
+string
+write 1 732
+write 0 25
+string
+write 0 619
+string
+string
+string
+write 0 361
+write 0 948
+read 0
+read 0
+write 0 456
+string
+string
+write 0 402
+string
+write 0 782
+write 0 969
+write 0 265
+read 1
+write 0 526
+write 0 986
+write 0 427
+write 0 452
+write 0 4
+write 0 160
+write 0 594
+write 0 417
+write 0 539
+write 0 68
+string
+string
+read 0
+write 0 1
+write 0 249
+write 0 247
+write 0 39
+read 0
+read 1
+write 0 771
+write 0 45
+write 0 876
+read 1
+string
+string
+string
+write 0 344
+string
+write 0 724
+write 0 13
+string
+write 1 295
+write 0 824
+read 0
+string
+write 0 220
+write 0 508
+write 0 372
+write 0 114
+string
+string
+write 0 671
+write 0 700
+string
+string
+write 0 866
+string
+write 0 227
+string
+write 0 821
+write 0 100
+write 0 250
+write 0 546
+write 0 944
+string
+string
+write 0 108
+write 0 388
+string
+string
+string
+write 0 307
+write 0 539
+write 0 316
+write 0 17
+string
+write 0 834
+write 0 940
+string
+string
+write 0 882
+write 0 627
+write 0 215
+write 0 66
+read 1
+write 0 451
+string
+write 0 100
+write 0 24
+read 1
+write 0 126
+write 0 922
+string
+string
+string
+string
+write 1 150
+write 0 420
+write 0 754
+write 0 600
+write 0 686
+string
+write 0 944
+string
+string
+write 0 819
+write 0 504
+write 0 660
+write 0 639
+string
+write 0 556
+string
+write 0 594
+write 0 887
+write 0 388
+write 0 412
+write 0 842
+string
+read 1
+write 0 712
+read 0
+write 0 14
+write 1 454
+write 0 769
+write 0 683
+write 0 103
+write 0 650
+string
+write 0 345
+write 0 914
+string
+read 1
+write 1 314
+write 0 381
+string
+write 0 776
+write 0 89
+write 0 220
+write 0 836
+write 1 685
+write 0 738
+string
+write 0 653
+write 0 768
+write 0 689
+string
+write 1 795
+read 1
+write 0 309
+string
+write 0 742
+write 0 789
+string
+string
+read 0
+write 0 627
+string
+read 0
+write 0 515
+write 0 283
+write 0 892
+write 0 498
+write 0 717
+write 0 853
+write 0 333
+write 0 778
+string
+write 1 351
+string
+write 0 997
+write 1 462
+read 1
+write 0 937
+string
+write 0 964
+write 0 106
+string
+string
+string
+write 0 75
+string
+write 0 943
+read 0
+string
+read 0
+string
+write 0 735
+string
+read 0
+string
+write 0 93
+read 0
+string
+read 0
+string
+read 1
+write 0 244
+write 0 325
+write 0 382
+write 0 652
+write 0 414
+string
+read 1
+read 0
+write 0 805
+string
+read 1
+string
+write 1 164
+write 0 276
+write 1 819
+write 1 547
+read 0
+write 0 916
+write 0 481
+string
+read 1
+read 0
+write 0 90
+string
+read 1
+write 0 396
+write 0 529
+write 0 48
+write 0 605
+write 0 28
+write 0 203
+write 0 90
+write 0 452
+write 0 184
+write 0 962
+read 1
+write 0 975
+string
+write 0 101
+write 0 498
+string
+write 0 870
+write 0 945
+write 0 376
+write 0 578
+write 0 917
+write 0 480
+write 0 606
+write 0 818
+write 0 417
+write 0 554
+write 0 409
+read 0
+read 0
+write 0 163
+write 0 559
+string
+write 0 446
+string
+write 0 735
+read 0
+write 0 472
+write 0 907
+write 1 282
+write 0 518
+write 0 275
+write 0 780
+string
+write 0 811
+write 0 219
+write 0 765
+read 0
+read 1
+string
+write 0 535
+write 0 737
+string
+write 0 204
+write 0 988
+read 1
+write 0 637
+string
+write 0 255
+write 0 487
+read 0
+string
+string
+write 0 780
+write 0 247
+write 0 63
+read 0
+write 0 432
+write 0 664
+write 0 486
+write 0 755
+string
+write 0 259
+string
+write 0 337
+string
+read 0
+string
+string
+string
+string
+write 0 247
+write 0 870
+string
+write 0 941
+write 0 726
+string
+write 0 686
+write 1 656
+write 0 951
+write 0 20
+write 0 70
+write 0 441
+write 0 319
+string
+write 0 87
+write 0 805
+string
+string
+write 0 916
+write 0 123
+write 0 494
+string
+string
+write 0 405
+write 1 926
+write 0 354
+string
+string
+read 1
+string
+string
+read 0
+write 1 114
+write 0 321
+write 0 591
+write 0 892
+write 0 862
+write 0 565
+write 0 631
+write 0 843
+write 0 991
+write 0 237
+string
+read 0
+write 0 782
+write 0 201
+write 0 1000
+string
+write 0 422
+string
+string
+write 1 915
+string
+write 0 53
+write 0 92
+write 0 492
+write 0 726
+string
+write 0 755
+write 0 59
+write 0 303
+write 1 481
+read 0
+write 0 463
+write 0 693
+write 0 271
+write 0 272
+string
+write 0 824
+write 0 13
+write 0 168
+write 0 16
+write 0 404
+write 0 779
+write 0 726
+write 0 131
+write 0 899
+write 0 176
+write 0 918
+write 0 8
+write 0 331
+write 0 777
+write 0 89
+write 0 828
+write 0 783
+read 1
+string
+string
+string
+string
+write 0 444
+string
+write 0 345
+string
+string
+write 0 136
+write 0 795
+write 0 774
+string
+string
+string
+write 0 38
+write 0 389
+write 0 371
+write 0 181
+write 0 224
+read 0
+write 0 595
+string
+read 0
+write 0 539
+string
+write 0 544
+string
+write 0 618
+string
+write 0 874
+write 0 259
+read 0
+write 0 30
+write 0 591
+write 0 645
+string
+write 0 295
+write 0 8
+write 0 144
+write 0 771
+write 0 205
+write 0 482
+string
+write 0 96
+write 0 226
+write 0 814
+string
+write 0 181
+write 0 116
+string
+write 0 581
+write 0 584
+write 0 485
+write 1 200
+read 0
+write 0 491
+write 0 263
+write 0 269
+write 0 544
+write 0 871
+read 0
+string
+string
+write 0 240
+write 0 277
+write 0 643
+write 0 112
+write 0 599
+write 0 959
+write 0 744
+string
+write 0 948
+write 0 289
+write 0 11
+string
+write 1 713
+string
+write 0 460
+write 0 960
+write 0 634
+read 0
+string
+write 0 967
+write 0 245
+write 0 33
+read 0
+string
+string
+write 0 92
+write 0 624
+write 0 851
+write 0 44
+write 0 17
+string
+write 0 205
+write 0 683
+read 1
+write 0 227
+write 0 579
+write 0 680
+write 0 0
+string
+write 0 627
+read 1
+string
+read 0
+write 0 409
+write 0 937
+write 0 85
+string
+string
+write 0 863
+write 0 210
+write 0 995
+string
+string
+write 0 112
+write 0 621
+write 0 981
+write 0 53
+string
+string
+write 0 460
+write 0 488
+write 1 671
+write 0 378
+write 0 211
+string
+string
+write 0 912
+write 0 146
+write 1 198
+write 0 19
+write 0 756
+write 0 409
+string
+write 1 965
+write 0 274
+write 0 657
+write 0 709
+read 0
+write 0 579
+read 0
+string
+string
+string
+string
+string
+write 0 373
+write 0 946
+string
+write 0 56
+write 0 27
+string
+string
+read 1
+read 1
+write 0 41
+write 0 348
+write 0 346
+write 0 81
+string
+write 0 701
+string
+string
+read 0
+write 0 237
+write 0 674
+write 0 757
+string
+write 0 693
+string
+write 0 449
+string
+write 0 949
+string
+write 0 488
+string
+read 1
+write 0 542
+string
+read 1
+string
+read 1
+write 0 33
+string
+write 1 276
+write 0 655
+read 1
+string
+write 0 990
+string
+read 0
+write 0 845
+string
+write 0 651
+read 1
+write 0 720
+string
+write 0 2
+write 0 586
+write 0 560
+write 0 960
+write 0 582
+string
+string
+write 0 610
+write 0 126
+write 0 949
+write 0 202
+write 0 493
+write 0 752
+write 0 983
+string
+string
+write 0 241
+write 0 605
+write 0 114
+write 0 628
+write 0 191
+string
+string
+string
+write 0 830
+write 0 857
+write 0 109
+string
+write 0 400
+write 0 192
+string
+read 0
+read 1
+string
+string
+write 0 66
+write 0 977
+read 1
+write 0 531
+write 0 779
+read 0
+write 0 638
+string
+write 0 293
+write 0 192
+write 0 305
+write 0 761
+write 0 596
+read 1
+write 1 900
+write 0 412
+write 0 634
+write 0 672
+read 0
+write 0 513
+string
+write 0 790
+write 1 392
+string
+string
+read 1
+write 0 594
+write 0 318
+write 1 829
+write 0 180
+string
+string
+write 0 978
+write 0 320
+write 0 128
+write 1 882
+write 0 354
+string
+write 1 195
+write 0 454
+string
+write 0 993
+write 0 156
+write 0 711
+write 0 688
+write 0 242
+write 0 853
+write 0 165
+write 0 695
+write 0 335
+write 0 512
+string
+write 0 971
+write 0 48
+string
+string
+write 0 72
+write 0 600
+string
+string
+write 0 282
+read 0
+write 1 8
+string
+string
+string
+string
+write 0 13
+write 0 153
+write 0 105
+read 1
+write 0 387
+write 0 189
+write 0 954
+write 0 483
+string
+string
+string
+write 0 399
+write 0 175
+write 0 201
+write 0 61
+write 0 995
+write 0 432
+write 0 52
+string
+write 0 384
+write 0 123
+string
+string
+write 0 801
+string
+write 0 617
+string
+write 0 825
+write 0 938
+write 0 833
+write 0 741
+write 0 181
+write 0 552
+write 0 846
+string
+string
+write 0 483
+string
+write 0 365
+write 0 655
+write 0 340
+write 0 456
+string
+write 0 403
+write 0 128
+write 0 870
+string
+write 0 460
+string
+string
+write 0 567
+read 1
+write 0 91
+read 0
+write 0 570
+write 0 741
+write 0 327
+write 0 737
+write 0 734
+write 0 353
+write 0 2
+write 0 835
+write 0 76
+string
+string
+string
+string
+read 0
+string
+string
+write 0 933
+string
+write 0 323
+write 0 64
+read 1
+write 1 919
+string
+write 0 746
+write 0 489
+write 0 529
+write 0 603
+write 0 377
+write 0 766
+write 0 938
+write 0 386
+string
+write 0 48
+write 0 757
+write 0 13
+write 0 7
+string
+write 0 632
+string
+write 0 903
+write 0 965
+write 0 300
+string
+write 0 515
+string
+string
+write 0 382
+string
+string
+string
+write 0 744
+write 0 773
+write 0 54
+string
+write 0 509
+string
+string
+read 0
+write 0 640
+string
+write 0 407
+write 0 270
+write 0 672
+write 0 37
+string
+write 0 41
+write 0 772
+write 0 588
+write 0 175
+write 0 330
+write 0 365
+write 0 438
+write 0 114
+write 0 533
+read 0
+write 0 463
+read 1
+write 0 828
+write 0 196
+write 1 378
+write 0 119
+write 0 718
+write 0 204
+write 0 876
+write 0 871
+string
+write 0 126
+write 0 218
+read 0
+write 0 965
+read 1
+write 0 128
+write 0 470
+string
+write 0 615
+string
+string
+string
+string
+string
+write 0 407
+write 0 666
+write 0 110
+string
+write 0 181
+write 0 582
+string
+read 0
+write 0 217
+write 0 733
+write 0 292
+write 0 829
+read 1
+write 0 776
+read 1
+write 0 92
+string
+write 0 41
+string
+read 0
+write 0 118
+string
+write 0 855
+string
+write 0 500
+write 0 453
+write 0 416
+write 0 556
+write 0 101
+write 0 900
+write 0 1
+read 0
+write 0 646
+write 0 680
+write 0 295
+write 0 594
+write 0 141
+write 0 609
+write 0 664
+write 0 184
+write 0 332
+write 0 166
+write 0 809
+write 0 72
+string
+write 0 446
+write 0 697
+read 1
+write 0 152
+read 1
+write 0 324
+write 0 515
+string
+write 1 246
+write 0 762
+read 1
+write 0 948
+string
+string
+write 0 41
+read 0
+write 0 388
+write 0 980
+write 0 633
+write 0 562
+write 0 839
+write 0 228
+write 0 173
+string
+write 0 494
+string
+string
+string
+write 0 124
+string
+string
+write 0 373
+write 0 943
+write 0 51
+string
+read 1
+string
+write 0 162
+read 0
+string
+write 0 571
+write 1 746
+read 0
+write 0 345
+write 0 600
+write 0 322
+write 0 619
+string
+string
+string
+write 0 883
+string
+write 0 690
+read 0
+write 0 170
+write 0 659
+write 0 382
+write 0 534
+write 0 839
+read 1
+write 0 915
+string
+write 0 901
+write 0 986
+write 0 21
+write 0 22
+write 0 214
+write 0 741
+string
+string
+write 0 869
+write 0 514
+write 0 724
+write 0 971
+write 0 185
+read 1
+write 0 617
+write 0 841
+string
+write 0 271
+read 1
+write 0 653
+write 0 137
+string
+write 0 469
+write 1 279
+write 0 215
+write 0 19
+write 0 951
+write 0 122
+write 0 588
+string
+write 1 155
+write 0 391
+string
+string
+write 0 429
+string
+write 0 807
+string
+write 0 648
+write 0 761
+write 0 482
+write 0 418
+write 1 211
+write 0 957
+string
+read 1
+string
+string
+string
+write 0 690
+read 0
+write 0 360
+string
+write 0 912
+write 0 642
+write 0 321
+string
+write 0 941
+read 1
+write 0 559
+write 0 822
+write 1 646
+write 0 977
+write 0 25
+string
+write 0 635
+write 0 369
+write 1 354
+write 0 140
+write 0 0
+string
+write 0 425
+write 0 320
+write 0 643
+write 0 544
+write 0 30
+write 0 787
+write 0 86
+write 0 25
+write 0 795
+write 0 761
+write 0 340
+write 0 291
+write 0 297
+string
+write 0 957
+write 0 39
+string
+string
+string
+write 0 907
+read 1
+write 0 137
+write 0 426
+string
+read 1
+string
+string
+write 0 117
+string
+string
+string
+write 0 773
+write 0 711
+read 1
+read 0
+write 0 763
+write 0 787
+write 0 424
+write 0 204
+write 0 349
+write 0 395
+write 0 733
+read 0
+string
+write 0 91
+write 0 182
+write 0 711
+string
+write 0 654
+write 0 172
+write 0 628
+write 0 96
+write 0 40
+write 0 359
+write 0 257
+string
+write 0 382
+write 0 527
+write 0 200
+write 0 195
+string
+read 0
+string
+write 0 931
+write 0 548
+string
+write 0 452
+write 0 951
+write 0 73
+string
+string
+write 0 167
+write 0 822
+write 0 642
+write 0 721
+string
+write 0 505
+string
+write 0 594
+write 0 18
+write 1 832
+read 0
+string
+string
+string
+read 0
+write 0 409
+string
+write 0 336
+write 0 873
+write 0 608
+read 0
+write 0 158
+read 0
+write 1 774
+read 0
+string
+string
+string
+read 0
+write 0 394
+write 0 469
+write 0 250
+write 0 124
+write 0 800
+string
+write 0 337
+string
+string
+write 0 557
+read 1
+read 0
+write 0 73
+read 0
+write 0 194
+string
+write 0 476
+write 0 651
+read 0
+write 0 191
+write 0 984
+string
+write 1 255
+string
+write 0 469
+string
+string
+string
+write 0 750
+string
+write 0 523
+write 0 158
+write 0 773
+string
+string
+write 0 310
+write 0 625
+write 0 182
+string
+read 1
+write 0 659
+string
+write 1 957
+write 0 678
+string
+string
+read 0
+write 0 445
+write 0 614
+write 0 379
+string
+write 0 72
+write 0 324
+string
+write 0 149
+write 0 374
+write 0 625
+write 0 865
+string
+write 0 7
+write 0 393
+string
+write 0 60
+write 0 383
+string
+write 0 286
+string
+read 0
+read 0
+read 1
+write 0 850
+write 0 888
+string
+read 1
+write 0 881
+write 1 589
+write 0 564
+string
+string
+write 0 72
+string
+write 0 964
+string
+write 0 619
+string
+write 0 780
+write 0 346
+write 0 458
+string
+string
+string
+write 0 441
+read 0
+write 0 794
+string
+write 0 597
+write 0 437
+write 0 629
+write 0 173
+read 1
+write 0 945
+string
+write 1 218
+string
+read 1
+read 0
+string
+write 0 994
+string
+write 0 288
+write 0 945
+string
+write 0 399
+write 0 609
+write 0 758
+write 0 536
+string
+write 0 851
+write 0 765
+write 0 872
+write 0 648
+write 0 280
+string
+read 1
+write 0 33
+write 0 855
+write 0 749
+read 1
+write 0 626
+string
+write 0 704
+string
+string
+read 1
+string
+string
+string
+write 0 213
+string
+read 0
+string
+string
+write 1 788
+write 0 248
+write 0 787
+write 0 706
+read 0
+string
+write 0 356
+string
+write 0 889
+write 0 256
+write 0 545
+write 0 631
+write 0 343
+write 0 468
+read 1
+string
+write 0 915
+write 0 40
+string
+string
+write 0 377
+write 1 177
+write 0 198
+string
+write 0 869
+write 0 257
+write 0 670
+write 0 160
+write 1 841
+write 0 145
+write 0 486
+write 0 334
+string
+string
+string
+write 0 558
+write 0 962
+read 0
+write 0 47
+write 0 426
+write 0 239
+string
+string
+read 0
+read 1
+write 0 844
+string
+string
+write 1 555
+write 0 136
+write 0 67
+write 0 57
+string
+string
+write 0 392
+write 0 682
+write 0 625
+write 0 114
+string
+write 0 445
+string
+write 0 381
+write 0 136
+write 0 780
+string
+write 0 187
+write 0 10
+write 1 776
+string
+string
+write 0 649
+write 0 466
+write 0 457
+write 0 644
+write 0 53
+write 0 91
+write 0 760
+write 0 100
+write 0 665
+write 0 40
+write 0 711
+read 1
+write 0 992
+string
+string
+string
+read 1
+write 0 982
+write 0 298
+write 1 467
+string
+write 1 566
+string
+write 0 475
+write 0 468
+string
+write 0 962
+read 0
+write 0 647
+write 0 778
+write 1 600
+write 0 688
+write 0 720
+write 0 347
+read 1
+string
+write 0 554
+read 0
+write 0 224
+write 0 505
+write 0 742
+write 0 332
+string
+write 0 503
+write 0 298
+write 1 516
+write 0 389
+string
+write 0 137
+write 0 957
+write 0 327
+write 0 735
+write 0 679
+write 0 162
+write 1 275
+write 0 603
+read 1
+write 0 77
+write 0 297
+string
+write 0 288
+write 0 443
+read 1
+read 0
+write 0 419
+write 0 657
+write 0 924
+string
+write 0 547
+write 0 523
+write 0 262
+string
