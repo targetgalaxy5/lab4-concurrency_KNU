@@ -1,32 +1,39 @@
-# Lab 4 — Concurrency / Synchronization
+# Лабораторна робота №4 — Синхронізація потоків (Concurrency)
+
 **Студент:** Чубко Олег  
-**Група:** К-26
+**Група:** К-26  
+**Варіант:** №16 (m = 2 поля)
 
-Repository contains:
-- `data_struct_demo.cpp` — C++17 program implementing the data structure with per-field `std::shared_mutex`, supports `read i`, `write i v`, `string` commands. Measures execution time (microseconds).
-- `gen_commands.py` — generator for command files (variant, uniform, skewed).
-- `data/` — generated command files for three scenarios (3 threads each).
-- `results/` — template for results, screenshots and PDF report.
-- `report.pdf` — full lab report (detailed, multi-page).
+---
 
-## How to run (short)
-1. Compile C++ code:
-```
-g++ -std=c++17 -O2 data_struct_demo.cpp -lpthread -o demo
-```
-2. Generate command files (if you want to re-generate):
-```
-python3 gen_commands.py variant 1000 data/variant
-python3 gen_commands.py uniform 1000 data/uniform
-python3 gen_commands.py skewed 1000 data/skewed
-```
-3. Run (example):
-```
-./demo multi 3 data/variant_thread0.txt data/variant_thread1.txt data/variant_thread2.txt
-```
-4. Repeat each experiment 5 times and fill `results/table3x3.txt` with averages.
+## 📌 Опис проєкту
 
-## Notes
-- The program reads files into memory before timing, so file I/O isn't counted in measured time.
-- `std::shared_mutex` is used per field to allow concurrent reads and exclusive writes.
-- If your system does not have `std::shared_mutex` available, ensure you use a modern compiler (g++ 7+).
+Даний репозиторій містить реалізацію потокобезпечної структури даних, яка підтримує:
+
+- `read i` — зчитування значення з поля `i`
+- `write i v` — запис значення `v` у поле `i`
+- `string` — створення текстового подання всієї структури
+
+Синхронізація реалізована за допомогою **по одному `std::shared_mutex` на кожне поле**, що дозволяє:
+
+- багатьом потокам одночасно читати (`shared_lock`)
+- блокувати запис (`unique_lock`)
+- уникати deadlock при `string` (фіксований порядок блокувань 0 → 1)
+
+---
+
+## 📌 Структура проєкту
+
+├── README.md
+├── report.pdf
+├── data_struct_demo.cpp # основний C++ код
+├── gen_commands.py # генератор команд
+├── data/ # згенеровані файли команд
+│ ├── variant_thread0.txt
+│ ├── variant_thread1.txt
+│ ├── variant_thread2.txt
+│ ├── uniform_thread0.txt
+│ ├── ...
+├── results/
+│ ├── table3x3.txt # таблиця результатів
+│ └── screenshots/ # скріншоти тестувань
