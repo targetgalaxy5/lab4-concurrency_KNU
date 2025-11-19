@@ -1,6 +1,6 @@
 # Lab 4 — Concurrency / Synchronization
-**Student:** Чубко Олег  
-**Group:** К-26
+**Студент:** Чубко Олег  
+**Група:** К-26
 
 Repository contains:
 - `data_struct_demo.cpp` — C++17 program implementing the data structure with per-field `std::shared_mutex`, supports `read i`, `write i v`, `string` commands. Measures execution time (microseconds).
